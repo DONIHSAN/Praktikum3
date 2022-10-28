@@ -15,6 +15,7 @@ berikut adalah kode program dan gambar *screenshot* nya :
 ![gambar 2](screenshot/ss2.png)
 
 Lalu klik tombol **RUN**
+
 Maka hasilnya akan seperti ini :
 
 ![gambar 3](screenshot/ss3.png)
@@ -30,11 +31,13 @@ Silahkan ketik kode program seperti berikut :
 ![gambar 5](screenshot/ss5.png)
 
 lalu klik tombol **RUN**
+
 Ketika sudah muncul kalimat (Masukkan nilai) , maka isi dengan :
 - A = 10
 - B = 20
 
 lalu tekan **ENTER**.
+
 Maka hasilnya akan seperti ini :
 
 ![gambar 6](screenshot/ss6.png)
@@ -49,9 +52,11 @@ Silahkan ketik kode program seperti berikut :
 ![gambar 7](screenshot/ss7.png)
 
 lalu klik tombol **RUN**.
+
 Maka hasilnya akan seperti ini :
 
 ![gambar 8](screenshot/ss8.png)
 
 Sekian laporan Praktikum yang ke-tiga dari saya , alangkah baik nya temen-temen semua bisa mengikuti semua tutorial yang sudah di jelaskan.
+
 Sampai ketemu lagi di tutorial selanjutnya.
